@@ -1,4 +1,4 @@
-# buildreport
+# BuildR
 
 BuildR is a Powershell based application developed by P. Rijal at SICE that uses a C# assembly from itextsharp (buildreport.dll) to generate a pdf build report 
 of any devices in a domain environment.
