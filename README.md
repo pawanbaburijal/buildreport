@@ -22,5 +22,5 @@ to the skipped computers and use CLIENT tab in BuildR to generate report locally
 If you come across any issues, please feel free to reach out to: 
 
 Pawan Rijal
-pawanrijal@sice.com.au
+pawanrijal@outlook.com
 0404618182
